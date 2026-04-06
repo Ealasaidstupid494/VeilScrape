@@ -55,3 +55,40 @@ python main.py
 ## Output structure
 
 Each scrape creates a folder named after the site with a timestamp:
+
+~/VeilScrape_output/
+└── example.onion/
+└── 2026-04-06_12-00-00/
+├── meta.json
+├── page_source.html
+├── text.txt
+├── links.json
+├── emails.json
+├── videos.json
+├── audio.json
+├── files.json
+└── images/
+
+text
+
+---
+
+## Dependencies
+
+- requests
+- beautifulsoup4
+- stem
+
+---
+
+## Disclaimer
+
+This tool is for educational and research purposes only.
+Only use it on websites you own or have explicit permission to access.
+The author takes no responsibility for misuse.
+
+---
+
+## License
+
+MIT
