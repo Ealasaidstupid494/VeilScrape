@@ -24,3 +24,4 @@ def save_image(folder, filename, content):
     with open(path, "wb") as f:
         f.write(content)
     return path
+#Only For Educational Purpose
